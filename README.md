@@ -4,4 +4,11 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neosxz&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
-<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+```python
+Followon neosxz Github
+```
+
+```python
+Languages  :  Python, Batch, HTML/CSS
+  Discord  :  465841405022044171
+```
